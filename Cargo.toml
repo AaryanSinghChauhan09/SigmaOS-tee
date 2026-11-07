@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos_tee"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS tee stream tee model"
+
+[lib]
+name = "sigmaos_tee"
+path = "src/lib.rs"
+
+[dependencies]
