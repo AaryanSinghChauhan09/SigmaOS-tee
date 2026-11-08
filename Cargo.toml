@@ -2,10 +2,9 @@
 name = "sigmaos_tee"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS tee stream tee model"
+license = "MIT"
+description = "SigmaOS tee component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_tee"
 path = "src/lib.rs"
-
-[dependencies]
